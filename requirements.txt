@@ -1,0 +1,9 @@
+
+streamlit
+fastapi
+uvicorn
+requests
+pymupdf
+torch
+transformers
+unsloth
